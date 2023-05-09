@@ -1,5 +1,5 @@
 # HEART-DISEASE-PREDICTION BY LOGISTIC REGRESSION.
-Predicting coronary heart disease(CHO) in 10 yrs.
+Predicting coronary heart disease (CHO) in 10 yrs.
 # OVERVIEW
 This repo contains a detailed prediction of CHO in 10 yrs(Future).The dataset is about the heart diseases of Framingham,Massachusetts.By doing detailed exploratory analysis
 and preprocessing the machine learning model is finally built for good prediction.
